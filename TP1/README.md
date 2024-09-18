@@ -1,7 +1,7 @@
 
 # Relatório do TP1
 
-## Data: 2024.09.11
+## Data: 11.09.2024
 ## Autor: Leonor Pereira Mendes
 
 ## Resumo:
