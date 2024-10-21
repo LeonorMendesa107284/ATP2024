@@ -1,0 +1,5 @@
+Ana Margarida Castro Alves # 100001 # 13 | 15 | 14
+José Antunes Magalhães # 100002 # 18 | 16 | 17
+Lara Pereira Vieira # 100003 # 13 | 11 | 10
+Matilde Gonçalves Silva # 100004 # 14 | 16 | 16
+Tiago Peixoto Lima # 100005 # 16 | 18 | 17
